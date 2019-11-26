@@ -7,7 +7,7 @@ djangocms-text-ckeditor
 html5lib
 flake8
 django-polymorphic
-django-cms>=3.2
+django-cms>=3.4
 djangocms-attributes-field
 django-reversion
 django-mptt
